@@ -8,6 +8,7 @@
 ![KernelSU](https://img.shields.io/badge/Support-KernelSU-informational)
 ![RootMyAndroid](https://img.shields.io/badge/Support-RootMyAndroid-green)
 ![Monitoring](https://img.shields.io/badge/Feature-Device%20Monitoring-lightgrey)
+
 Android security monitoring tool that detects temporary and persistent root environments (GhostLock, ReSukiSu, BakaSu, KernelSU), monitors device reboots, and identifies previously installed applications that have been removed.
 # 📱 Android Root & Temporary Root Detection System
 
