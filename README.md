@@ -1,10 +1,13 @@
 # RootChecker
 ![Platform](https://img.shields.io/badge/Platform-Android-brightgreen?logo=android)
-![Security](https://img.shields.io/badge/Category-Root%20Detection-red)
+![Category](https://img.shields.io/badge/Category-Root%20Detection-red)
 ![Detection](https://img.shields.io/badge/Detection-Temporary%20%26%20Persistent-orange)
-![KernelSU](https://img.shields.io/badge/Support-KernelSU-blue)
 ![GhostLock](https://img.shields.io/badge/Support-GhostLock-purple)
-![Monitoring](https://img.shields.io/badge/Feature-Device%20Monitoring-informational)
+![ReSukiSu](https://img.shields.io/badge/Support-ReSukiSu-blue)
+![BakaSu](https://img.shields.io/badge/Support-BakaSu-yellow)
+![KernelSU](https://img.shields.io/badge/Support-KernelSU-informational)
+![RootMyAndroid](https://img.shields.io/badge/Support-RootMyAndroid-green)
+![Monitoring](https://img.shields.io/badge/Feature-Device%20Monitoring-lightgrey)
 Android security monitoring tool that detects temporary and persistent root environments (GhostLock, ReSukiSu, BakaSu, KernelSU), monitors device reboots, and identifies previously installed applications that have been removed.
 # 📱 Android Root & Temporary Root Detection System
 
