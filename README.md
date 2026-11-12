@@ -1,6 +1,5 @@
 # RootChecker
 Android security monitoring tool that detects temporary and persistent root environments (GhostLock, ReSukiSu, BakaSu, KernelSU), monitors device reboots, and identifies previously installed applications that have been removed.
-android, root-detection, temporary-root, root-checker, kernelsu, ghostlock, bakasu, resukisu, android-security, root-management, root-framework, mobile-security, device-integrity, android-development, security-monitoring
 # 📱 Android Root & Temporary Root Detection System
 
 A security-focused Android application designed to detect root access, identify temporary root environments, monitor device reboot events, and track applications that have been removed from the device.
