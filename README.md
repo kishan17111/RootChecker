@@ -4,16 +4,16 @@ RootChecker
 
 An Android security monitoring tool that detects temporary and persistent root environments (GhostLock, ReSukiSu, BakaSu, KernelSU), monitors device reboots, and identifies previously installed applications that have been removed.
 
-"Platform" (https://img.shields.io/badge/Platform-Android-brightgreen?logo=android)
-"Category" (https://img.shields.io/badge/Category-Root%20Detection-red)
-"Detection" (https://img.shields.io/badge/Detection-Temporary%20%26%20Persistent-orange)
-"GhostLock" (https://img.shields.io/badge/Support-GhostLock-purple)
-"ReSukiSu" (https://img.shields.io/badge/Support-ReSukiSu-blue)
-"BakaSu" (https://img.shields.io/badge/Support-BakaSu-yellow)
-"KernelSU" (https://img.shields.io/badge/Support-KernelSU-informational)
-"RootMyAndroid" (https://img.shields.io/badge/Support-RootMyAndroid-green)
-"Monitoring" (https://img.shields.io/badge/Feature-Device%20Monitoring-lightgrey)
-"OTP Verification" (https://img.shields.io/badge/Security-OTP%20Verification-success)
+![Platform](https://img.shields.io/badge/Platform-Android-brightgreen?logo=android)
+![Category](https://img.shields.io/badge/Category-Root%20Detection-red)
+![Detection](https://img.shields.io/badge/Detection-Temporary%20%26%20Persistent-orange)
+![GhostLock](https://img.shields.io/badge/Support-GhostLock-purple)
+![ReSukiSu](https://img.shields.io/badge/Support-ReSukiSu-blue)
+![BakaSu](https://img.shields.io/badge/Support-BakaSu-yellow)
+![KernelSU](https://img.shields.io/badge/Support-KernelSU-informational)
+![RootMyAndroid](https://img.shields.io/badge/Support-RootMyAndroid-green)
+![OTP Verification](https://img.shields.io/badge/Security-OTP%20Verification-success)
+![Monitoring](https://img.shields.io/badge/Feature-Device%20Monitoring-lightgrey)
 
 🔐 OTP Lock Verification is required to access the application.
 
@@ -141,11 +141,6 @@ Some capabilities may vary depending on the Android version and device manufactu
 - [ ] Generate detailed security monitoring reports.
 - [ ] Improve compatibility across Android versions.
 
-🤝 Contributions
-
-Contributions, suggestions, and bug reports are welcome!
-
-If you would like to improve root detection techniques or add support for additional Android root frameworks, feel free to contribute.
 
 ⚖️ Disclaimer
 
