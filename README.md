@@ -1,21 +1,23 @@
-# RootChecker
+RootChecker
 
-![Platform](https://img.shields.io/badge/Platform-Android-brightgreen?logo=android)
-![Category](https://img.shields.io/badge/Category-Root%20Detection-red)
-![Detection](https://img.shields.io/badge/Detection-Temporary%20%26%20Persistent-orange)
-![GhostLock](https://img.shields.io/badge/Support-GhostLock-purple)
-![ReSukiSu](https://img.shields.io/badge/Support-ReSukiSu-blue)
-![BakaSu](https://img.shields.io/badge/Support-BakaSu-yellow)
-![KernelSU](https://img.shields.io/badge/Support-KernelSU-informational)
-![RootMyAndroid](https://img.shields.io/badge/Support-RootMyAndroid-green)
-![OTP](https://img.shields.io/badge/Security-OTP%20Verification-success)
-![Monitoring](https://img.shields.io/badge/Feature-Device%20Monitoring-lightgrey)
+<div align="center">📱 Android Root & Temporary Root Detection System
 
-Android security monitoring tool that detects temporary and persistent root environments (GhostLock, ReSukiSu, BakaSu, KernelSU), monitors device reboots, and identifies previously installed applications that have been removed.
+An Android security monitoring tool that detects temporary and persistent root environments (GhostLock, ReSukiSu, BakaSu, KernelSU), monitors device reboots, and identifies previously installed applications that have been removed.
 
-📱 Android Root & Temporary Root Detection System
+"Platform" (https://img.shields.io/badge/Platform-Android-brightgreen?logo=android)
+"Category" (https://img.shields.io/badge/Category-Root%20Detection-red)
+"Detection" (https://img.shields.io/badge/Detection-Temporary%20%26%20Persistent-orange)
+"GhostLock" (https://img.shields.io/badge/Support-GhostLock-purple)
+"ReSukiSu" (https://img.shields.io/badge/Support-ReSukiSu-blue)
+"BakaSu" (https://img.shields.io/badge/Support-BakaSu-yellow)
+"KernelSU" (https://img.shields.io/badge/Support-KernelSU-informational)
+"RootMyAndroid" (https://img.shields.io/badge/Support-RootMyAndroid-green)
+"Monitoring" (https://img.shields.io/badge/Feature-Device%20Monitoring-lightgrey)
+"OTP Verification" (https://img.shields.io/badge/Security-OTP%20Verification-success)
 
-A security-focused Android application designed to detect root access, identify temporary root environments, monitor device reboot events, and track applications that have been removed from the device.
+🔐 OTP Lock Verification is required to access the application.
+
+</div>---
 
 🚀 Overview
 
@@ -27,14 +29,7 @@ The application displays useful details such as the detection timestamp, last-us
 
 ✨ Key Features
 
-1. OTP Lock Verification
-
--Requires OTP (One-Time Password) verification before allowing access to the application.
--Prevents unauthorized users from accessing the application.
--Grants access only after successful OTP verification.
--Provides an additional layer of application security.
-
-2. Root Detection
+1. Root Detection
 
 Detects root access and identifies the presence of multiple root management frameworks, including:
 
@@ -44,27 +39,27 @@ Detects root access and identifies the presence of multiple root management fram
 - KernelSU
 - Traditional Android Root
 
-3. Temporary Root Detection
+2. Temporary Root Detection
 
 - Identifies temporary root access mechanisms.
 - Checks for traces and indicators associated with supported root frameworks.
 - Helps identify root environments that may not remain active permanently.
 - Provides additional visibility into changes in the device's root status.
 
-4. Device Restart Detection
+3. Device Restart Detection
 
 - Detects when the Android device has been restarted.
 - Tracks reboot events and their timestamps.
 - Helps correlate device restarts with changes in root status and installed applications.
 
-5. Deleted Application Monitoring
+4. Deleted Application Monitoring
 
 - Identifies applications that were previously installed but are no longer present.
 - Displays information about detected deleted applications.
 - Records the available deletion-related timestamps.
 - Displays the last-used time when available.
 
-6. Application Activity Information
+5. Application Activity Information
 
 Provides application-related information, including:
 
@@ -76,17 +71,15 @@ Provides application-related information, including:
 
 🛠️ Detection Capabilities
 
-Component	Detection
-
-GhostLock	Root framework detection
-ReSukiSu	Root framework detection
-BakaSu	Root framework detection
-KernelSU	Root framework detection
-Android Root	General root detection
-Device Reboot	Restart event detection
-Deleted Apps	Previously installed application monitoring
-Last Used	Application usage information, when available
-
+Component| Detection
+GhostLock| Root framework detection
+ReSukiSu| Root framework detection
+BakaSu| Root framework detection
+KernelSU| Root framework detection
+Android Root| General root detection
+Device Reboot| Restart event detection
+Deleted Apps| Previously installed application monitoring
+Last Used| Application usage information, when available
 
 🔍 How It Works
 
@@ -148,15 +141,20 @@ Some capabilities may vary depending on the Android version and device manufactu
 - [ ] Generate detailed security monitoring reports.
 - [ ] Improve compatibility across Android versions.
 
-      
+🤝 Contributions
+
+Contributions, suggestions, and bug reports are welcome!
+
+If you would like to improve root detection techniques or add support for additional Android root frameworks, feel free to contribute.
+
 ⚖️ Disclaimer
 
 This project is intended for Android security research, device integrity monitoring, and educational purposes.
 
 The detection mechanisms are designed to identify potential root-related indicators and application environment changes. Results may vary depending on Android versions, device configurations, permissions, and root-hiding techniques.
 
-
 ---
 
-Built for Android Security Monitoring & Root Environment Analysis. 🔐
-Add "there is an otp lock verification to access the application"
+<div align="center">Built for Android Security Monitoring & Root Environment Analysis. 🔐
+
+</div>
